@@ -1,7 +1,6 @@
 jhg
 print('Hello hi hi hi jjjjjj')
 
-
 class Printer:
     a=0
     b=0
