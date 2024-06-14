@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 print('Hello hi hi hi jjjjjj') 
-=======
 print('Hello hi hi hi jjjjjj')
 
 
@@ -20,4 +18,3 @@ hp.work()
 
 
 
->>>>>>> junior
