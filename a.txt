@@ -14,3 +14,4 @@ class Printer:
 
 hp=Printer(2,3)
 hp.work()
+ 
