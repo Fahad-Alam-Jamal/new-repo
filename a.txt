@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 print('Hello hi hi hi jjjjjj') 
+=======
+print('Hello hi hi hi jjjjjj')
+
+
+class Printer:
+    a=0
+    b=0
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+
+    def work(self):
+        print(self.a,self.b)
+
+
+hp=Printer(2,3)
+hp.work()
+
+
+
+>>>>>>> junior
