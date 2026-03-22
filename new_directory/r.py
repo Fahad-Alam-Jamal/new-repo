@@ -1,1 +1,1 @@
-print('yyyyyy')
+print('yyyyy')
